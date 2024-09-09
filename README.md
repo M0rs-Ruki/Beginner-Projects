@@ -1,4 +1,5 @@
 Beginner-Projects
+
 A collection of beginner-friendly Python projects designed to build foundational programming skills, covering concepts like control flow, functions, and libraries.
 
 * Rock-Paper-Scissors Game: A simple game where the user plays against the computer, with the winner determined by conditional logic.
