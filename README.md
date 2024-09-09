@@ -13,4 +13,4 @@ A collection of beginner-friendly Python projects designed to build foundational
 
 * Random Password Generator: Creates secure passwords with random characters, demonstrating loops and the random module.
 
-* Each project is easy to understand and designed for hands-on learning.
+  Each project is easy to understand and designed for hands-on learning.
